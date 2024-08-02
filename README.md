@@ -11,7 +11,7 @@
 
 
 ## Emulador
-<br>
+
 ![image](https://github.com/user-attachments/assets/3fd14c26-24ef-4d20-b6fb-f7a69fc219b9)
 
 
