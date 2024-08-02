@@ -12,7 +12,7 @@
 
 ## Emulador
 
-![image](https://github.com/user-attachments/assets/3fd14c26-24ef-4d20-b6fb-f7a69fc219b9)
+![image](https://github.com/user-attachments/assets/04037ed2-fd75-4df7-b868-bf2e6af5af78)
 
 
 ## Móvil
